@@ -56,4 +56,4 @@ The system is based on the concept of **memory decay**, where retention decrease
 ### ▶️ Option 1: Run Python Code
 ```bash
 python scheduler.py
-🔗 Download & Run: [Click here](https://github.com/Pallaini-Bhargavi/Smart-Revision-Scheduler/releases)
+🔗 Download & Run: https://github.com/Pallaini-Bhargavi/Smart-Revision-Scheduler/releases

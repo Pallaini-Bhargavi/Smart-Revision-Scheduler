@@ -29,7 +29,6 @@ A Python-based desktop application that predicts optimal revision timings using 
 - **Python**
 - **Tkinter** (GUI)
 - **Plyer** (Desktop Notifications)
-- **Multithreading** (Background scheduling)
 
 ---
 
